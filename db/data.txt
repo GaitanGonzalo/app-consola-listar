@@ -1,0 +1,1 @@
+[{"id":"651227d8-8deb-42da-b952-dc7876bfa7ac","desc":"crear aplicacion del super","completadoEn":null},{"id":"ebca6ccf-a46e-4d05-b5db-e1f969313e99","desc":"crear otra aplicacion","completadoEn":null},{"id":"67c1737a-c944-4e83-bb3e-b1a4e7a2064a","desc":"lavae los platos","completadoEn":"2021-06-23T19:51:37.573Z"}]
